@@ -5,9 +5,7 @@
 <p align="center">
   <a href="https://www.tassili.ai"><img src="https://img.shields.io/badge/Tassili.ai-0B1530?style=for-the-badge" alt="Tassili.ai website" /></a>
   <a href="mailto:zaki.ouldmiloud@tassili.ai"><img src="https://img.shields.io/badge/Email-0B1530?style=for-the-badge" alt="Email" /></a>
-  <!-- LinkedIn: replace YOUR-HANDLE with your profile path, then uncomment.
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0B1530?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/zakaria-ould-miloud-455130449/"><img src="https://img.shields.io/badge/LinkedIn-0B1530?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
