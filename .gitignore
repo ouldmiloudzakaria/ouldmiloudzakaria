@@ -1,0 +1,5 @@
+# Local agent / tooling state (never publish)
+.claude/
+.claude-flow/
+.swarm/
+__pycache__/

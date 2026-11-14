@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300" role="img" aria-labelledby="t">
+  <title id="t">DzInsight: Social media intelligence for Algerian content</title>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" />
+      <stop offset="1" stop-color="#3B82F6" />
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="519" height="299" rx="14" fill="#0A1122" stroke="#1C2A47" />
+  <rect x="24" y="0.5" width="64" height="3" rx="1.5" fill="url(#a)" />
+  <text x="24" y="50" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="24" font-weight="700" fill="#E6EDF7">DzInsight</text>
+  <rect x="302" y="30" width="194" height="24" rx="12" fill="none" stroke="#22D3EE" stroke-opacity="0.5" />
+  <text x="399.0" y="46.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="0.5" fill="#22D3EE">M.SC. CAPSTONE · PRIVATE</text>
+  <text x="24" y="78" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="15" fill="#8B9BB4">Social media intelligence for Algerian content</text>
+  <rect x="26" y="105" width="6" height="6" rx="1" fill="#22D3EE" />
+  <text x="42" y="114" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="14.5" fill="#E6EDF7">TikTok, Instagram, YouTube, Facebook, Telegram</text>
+  <rect x="26" y="130" width="6" height="6" rx="1" fill="#22D3EE" />
+  <text x="42" y="139" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="14.5" fill="#E6EDF7">Darija speech-to-text with a Darija Whisper model</text>
+  <rect x="26" y="155" width="6" height="6" rx="1" fill="#22D3EE" />
+  <text x="42" y="164" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="14.5" fill="#E6EDF7">Sentiment: DziriBERT, CAMeLBERT, XLM-R</text>
+  <rect x="26" y="180" width="6" height="6" rx="1" fill="#22D3EE" />
+  <text x="42" y="189" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="14.5" fill="#E6EDF7">Vision: YOLO, DeepFace, EasyOCR</text>
+  <rect x="26" y="205" width="6" height="6" rx="1" fill="#22D3EE" />
+  <text x="42" y="214" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="14.5" fill="#E6EDF7">RAG chat: embeddings + BM25, LLM via Groq / Ollama</text>
+  <rect x="24" y="250" width="75" height="26" rx="6" fill="#0F1C38" stroke="#1C2A47" />
+  <text x="61.5" y="267.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#B9C7DD">FastAPI</text>
+  <rect x="107" y="250" width="61" height="26" rx="6" fill="#0F1C38" stroke="#1C2A47" />
+  <text x="137.5" y="267.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#B9C7DD">React</text>
+  <rect x="176" y="250" width="68" height="26" rx="6" fill="#0F1C38" stroke="#1C2A47" />
+  <text x="210.0" y="267.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#B9C7DD">SQLite</text>
+  <rect x="252" y="250" width="127" height="26" rx="6" fill="#0F1C38" stroke="#1C2A47" />
+  <text x="315.5" y="267.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#B9C7DD">faster-whisper</text>
+</svg>

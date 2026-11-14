@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">Zakaria Ould Miloud</title>
+  <desc id="d">AI Engineer, LLM Engineer, Agentic AI Developer and Full-Stack Developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050912" />
+      <stop offset="1" stop-color="#0B1530" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" />
+      <stop offset="1" stop-color="#3B82F6" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.5" r="0.45">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#13213F" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)" />
+  <rect width="1280" height="320" rx="18" fill="url(#grid)" opacity="0.55" />
+  <rect width="1280" height="320" rx="18" fill="url(#glow)" />
+  <g stroke="#3B82F6" stroke-opacity="0.35" stroke-width="1.4">
+    <line x1="900" y1="70" x2="1000" y2="120" />
+    <line x1="1000" y1="120" x2="1110" y2="70" />
+    <line x1="1110" y1="70" x2="1200" y2="140" />
+    <line x1="900" y1="70" x2="880" y2="190" />
+    <line x1="1000" y1="120" x2="880" y2="190" />
+    <line x1="1000" y1="120" x2="990" y2="230" />
+    <line x1="1000" y1="120" x2="1100" y2="190" />
+    <line x1="1110" y1="70" x2="1100" y2="190" />
+    <line x1="1200" y1="140" x2="1100" y2="190" />
+    <line x1="1200" y1="140" x2="1210" y2="250" />
+    <line x1="880" y1="190" x2="990" y2="230" />
+    <line x1="990" y1="230" x2="1100" y2="190" />
+    <line x1="1100" y1="190" x2="1210" y2="250" />
+    <line x1="990" y1="230" x2="1060" y2="280" />
+    <line x1="1100" y1="190" x2="1060" y2="280" />
+    <line x1="880" y1="190" x2="940" y2="280" />
+    <line x1="990" y1="230" x2="940" y2="280" />
+    <line x1="1060" y1="280" x2="1210" y2="250" />
+  </g>
+  <g>
+    <circle cx="900" cy="70" r="4.5" fill="#3B82F6" opacity="0.75" />
+    <circle cx="1000" cy="120" r="7" fill="#22D3EE" opacity="0.95" />
+    <circle cx="1110" cy="70" r="4.5" fill="#3B82F6" opacity="0.75" />
+    <circle cx="1200" cy="140" r="4.5" fill="#3B82F6" opacity="0.75" />
+    <circle cx="880" cy="190" r="4.5" fill="#3B82F6" opacity="0.75" />
+    <circle cx="990" cy="230" r="4.5" fill="#3B82F6" opacity="0.75" />
+    <circle cx="1100" cy="190" r="7" fill="#22D3EE" opacity="0.95" />
+    <circle cx="1210" cy="250" r="4.5" fill="#3B82F6" opacity="0.75" />
+    <circle cx="1060" cy="280" r="4.5" fill="#3B82F6" opacity="0.75" />
+    <circle cx="940" cy="280" r="4.5" fill="#3B82F6" opacity="0.75" />
+  </g>
+  <text x="72" y="92" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" letter-spacing="3" fill="#22D3EE">AI ENGINEERING  /  LANGUAGE TECHNOLOGY</text>
+  <text x="70" y="158" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="56" font-weight="700" fill="#E6EDF7">Zakaria Ould Miloud</text>
+  <rect x="72" y="180" width="96" height="4" rx="2" fill="url(#accent)" />
+  <text x="72" y="222" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="23" fill="#E6EDF7">AI Engineer  ·  LLM Engineer  ·  Agentic AI  ·  Full-Stack</text>
+  <text x="72" y="258" font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif" font-size="17" fill="#8B9BB4">Arabic NLP and Algerian Darija  ·  Dataset engineering  ·  RAG  ·  Local AI</text>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="18" fill="none" stroke="#1C2A47" />
+</svg>
